@@ -7,10 +7,10 @@ public class DrawApp {
 		rec.computePerimeterArea();
 		rec.display();
 		
-		Square sq=new Square();
-		sq.acceptInput();
-		sq.computePerimeterArea();
-		sq.display();
+		Square sq2=new Square();
+		sq2.acceptInput();
+		sq2.computePerimeterArea();
+		sq2.display();
 		
 		Circle c=new Circle();
 		c.acceptInput();
