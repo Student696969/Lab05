@@ -15,6 +15,11 @@ public class DrawApp {
 		Circle c=new Circle();
 		c.acceptInput();
 		c.computePerimeterArea();
-		c.display();
+		c.display();		
+		
+		Circle c2=new Circle();
+		c2.acceptInput();
+		c2.computePerimeterArea();
+		c2.display();
 	}
 }
